@@ -50,7 +50,7 @@ $userinfo = $res_1->fetch_assoc();
             <a>Accessori</a>
             <a>Supporto</a>
             <a id="ricerca"><img src="magnifying-glass-308581_640.png" alt="ricerca" class="ricerca"></a>
-            <a id="shoppingbag" href="carrello.html"><img src="Icons8-Ios7-Ecommerce-Shopping-Bag.512.png" alt="shoppingbag" class="shoppingbag"></a>
+            <a id="shoppingbag" href="carrello.php"><img src="Icons8-Ios7-Ecommerce-Shopping-Bag.512.png" alt="shoppingbag" class="shoppingbag"></a>
         </nav>
       <div id="flexbox">
         <div id="immagine"><img src="hero_static__c9sislzzicq6_large.png"alt="macc" class="macc"></div><p>MacBook Air</p>
